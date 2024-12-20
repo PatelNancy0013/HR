@@ -1,4 +1,3 @@
-Human Resource Dashboard project
 This project presents a Human Resources Dashboard designed to provide a comprehensive overview of employee data. The dashboard allows HR teams and decision-makers to gain insights into key HR metrics such as employee demographics, departmental performance, income distribution, and salary trends. It allows HR teams and managers to track and analyze employee-specific data, including demographics, roles, salaries, employment status, and length of employment.
 The dashboard is an extension of the HR analytics system, offering granular insights into employee data for operational and strategic decisions.
 1. Overview
